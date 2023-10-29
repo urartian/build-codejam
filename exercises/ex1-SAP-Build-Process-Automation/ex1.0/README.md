@@ -7,10 +7,10 @@ With SAP Build Process Automation, you can configure an Simple Mail Transfer Pro
 To simplify our lives, we will be using the services of Debug Mail to set up a fake SMTP server for email testing.
 
 1. Go to [www.debugmail.io](https://debugmail.io) and create a free account.
-![Sign up](../../../images/ex1.0/Sign%20up.png)
+![Sign up](../../../images/ex1.0/Sign%20up.png){width=400px height=550px}
 2. Create a new project.
 ![New project](../../../images/ex1.0/Create%20new%20project.png)
-![Project settings](../../../images/ex1.0/Project%20settings.png)
+![Project settings](../../../images/ex1.0/Project%20settings.png){width=350px height=700px}
 3. Notifications from Build Process Automation
 ![Notifications](../../../images/ex1.0/Mail%20notifications.png)
 
