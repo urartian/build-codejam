@@ -1,0 +1,12 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Sun Oct 29 12:41:18 UTC 2023
+Description=Process Automation
+Type=HTTP
+Authentication=BasicAuthentication
+Name=spa-process-destination
+sap.processautomation.enabled=true
+ProxyType=Internet
+URL=https\://spa-api-gateway-bpi-us-prod.cfapps.us10.hana.ondemand.com/workflow/rest/v1/workflow-instances
+tokenServiceURLType=Dedicated
+User=artiom.sargesjan@urartian.am

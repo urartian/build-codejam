@@ -1,0 +1,14 @@
+Type=MAIL
+mail.description=Process Automation service mail
+mail.user=<Replace with Debugmail Login>
+mail.password=<Replace with Debugmail Pass>
+mail.smtp.from=process+btp@urartian.am
+mail.transport.protocol=smtp
+mail.smtp.starttls.required=true
+Authentication=BasicAuthentication
+mail.smtp.host=app.debugmail.io
+Name=sap_process_automation_mail
+mail.smtp.starttls.enable=true
+ProxyType=Internet
+mail.smtp.port=25
+mail.smtp.auth=true
