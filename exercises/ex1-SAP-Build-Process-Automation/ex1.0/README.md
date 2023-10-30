@@ -17,5 +17,6 @@ With SAP Build Process Automation, you can configure an Simple Mail Transfer Pro
 ## BTP Destinations
 
 With the fake SMTP server in place, we can set up a destination in the BTP cockpit. This way, Process Automation can utilize it for sending notifications.
+You have the option to either create a new destination or import an already existing one from. [here](../../ex1-SAP-Build-Process-Automation/destinations/sap_process_automation_mail)
 
 ![Destinations](../../../images/ex1.0/Debug%20Mail%20destination.png)
