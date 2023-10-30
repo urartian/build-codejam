@@ -1,4 +1,4 @@
-# Exercise 1.0 - Configure SMTP Destination to send mail notifications.
+# Configure SMTP Destination to send mail notifications.
 
 With SAP Build Process Automation, you can configure an Simple Mail Transfer Protocol (SMTP) server for email notifications to notify specific contacts about status changes in active project automations and live processes. To simplify our lives, we will be using the services of Debug Mail to set up a fake SMTP server for email testing.
 
