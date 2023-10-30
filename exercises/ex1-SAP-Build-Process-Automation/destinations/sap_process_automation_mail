@@ -1,7 +1,7 @@
 Type=MAIL
 mail.description=Process Automation service mail
 mail.user=<Replace with Debugmail Login>
-mail.password=<Replace with Debugmail Pass>
+#mail.password=<Replace with Debugmail Pass>
 mail.smtp.from=process+btp@urartian.am
 mail.transport.protocol=smtp
 mail.smtp.starttls.required=true
