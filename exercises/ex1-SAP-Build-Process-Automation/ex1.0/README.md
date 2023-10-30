@@ -20,3 +20,5 @@ With the fake SMTP server in place, we can set up a destination in the BTP cockp
 You have the option to either create a new destination or import an already existing one from. [here](../../ex1-SAP-Build-Process-Automation/destinations/sap_process_automation_mail)
 
 ![Destinations](../../../images/ex1.0/Debug%20Mail%20destination.png)
+
+Please ensure that you update the destination's user and password with the Login and Pass from your Debug Mail account's Project Settings.
