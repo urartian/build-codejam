@@ -21,3 +21,7 @@ Please utilize the provided MTAR file to import a pre-existing Sales Order Busin
 ![Import Btn](../../../images/ex1.1/importbtn.png)
 ![Browse Files](../../../images/ex1.1/Browse%20Files.png)
 ![Import](../../../images/ex1.1/import.png)
+
+## Change Recipients e-mail address
+
+![Recipients](../../../images/ex1.1/recipients.png)
