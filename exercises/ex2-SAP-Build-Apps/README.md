@@ -13,9 +13,9 @@ This section of exercises focuses on SAP Build Apps, specifically the creation o
 * [Exercise 2.4 - Deploy SAP Build App to SAP BTP](/exercises/ex2-SAP-Build-Apps/ex2.4/README.md) 
 
 
-## BTP Destinations
+## Prerequisite
 
-In order for the BUILD application to trigger the workflow, you first need to configure a BTP destination pointing to the worflow instances.
+To trigger the workflow through the BUILD application, your initial step involves setting up a BTP destination that directs to the workflow instances.
 You have the option to either create a new destination or import an already existing one from. [here](../../exercises/ex2-SAP-Build-Apps/destinations/spa_process_destination)
 
 ![Destinations](../../images/ex1.2/destination.png)
