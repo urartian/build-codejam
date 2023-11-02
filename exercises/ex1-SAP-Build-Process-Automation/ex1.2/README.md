@@ -18,4 +18,4 @@ With both exercises for SAP Build Process Automation, you can now create a proce
 
 ## Next
 
-Continue to - [Exercise 2.1 - Create SAP Build App to Trigger Workflow](https://github.com/urartian/build-codejam/tree/dev/exercises/ex2-SAP-Build-Apps)
+Continue to - [Exercise 2.1 - Create SAP Build App to Trigger Workflow](https://github.com/SAP-samples/build-codejam/tree/main/exercises/ex2-SAP-Build-Apps/ex2.1)
