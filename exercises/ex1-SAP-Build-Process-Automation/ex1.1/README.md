@@ -10,9 +10,17 @@ The process receives the sales order details and then either:
   
 - Sends an approval form to the specified approver. Once the approver approves, the process ends. 
 
+## Exercises
+
+Perform all the steps in 👉 tutorial: 
+
+- [Create Sales Order Business Process](https://developers.sap.com/tutorials/spa-academy-salesorder.html)
+
+# Source
+
 ## Download
 
-Please utilize the provided MTAR file to import a pre-existing Sales Order Business Process.
+If you require it, we also offer the source code for you to download below. Please utilize the provided MTAR file to import a pre-existing Sales Order Business Process.
 
 - [Sales Orders Management.mtar](../ex1.1/Sales%20Orders%20Management.mtar)
 
