@@ -22,10 +22,11 @@ You have the option to either create a new destination or import an already exis
 
 Please ensure to update the destination's settings.
 
+# Source
 
 ## Download
 
-Please utilize the provided MTAR file to import a pre-existing Create Sales Order application.
+If you require it, we also offer the source code for you to download below. Please utilize the provided MTAR file to import a pre-existing Create Sales Order application.
 
 - [Create Sales Order.mtar](../ex2-SAP-Build-Apps/Create%20Sales%20Order.mtar)
 
