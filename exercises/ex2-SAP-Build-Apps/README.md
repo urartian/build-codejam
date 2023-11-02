@@ -18,7 +18,7 @@ This section of exercises focuses on SAP Build Apps, specifically the creation o
 To trigger the workflow through the BUILD application, your initial step involves setting up a BTP destination that directs to the workflow instances.
 You have the option to either create a new destination or import an already existing one from. [here](../../exercises/ex2-SAP-Build-Apps/destinations/spa_process_destination)
 
-![Destinations](../../images/ex1.2/destination.png)
+![Destinations](../../images/ex2.2/destination.png)
 
 Please ensure to update the destination's settings.
 
@@ -34,13 +34,13 @@ If you require it, we also offer the source code for you to download below. Plea
 
 ![Import Btn](../../images/ex1.1/importbtn.png)
 ![Browse Files](../../images/ex1.1/Browse%20Files.png)
-![Import](../../images/ex1.2/import.png)
+![Import](../../images/ex2.2/import.png)
 
 ## Test Workflow Trigger
 
-![Step1](../../images/ex1.2/test_api_1.png)
-![Step2](../../images/ex1.2/test_api_2.png)
-![Step3](../../images/ex1.2/test_api_3.png)
-![Step4](../../images/ex1.2/test_api_4.png)
-![Step5](../../images/ex1.2/test_api_5.png)
-![Step6](../../images/ex1.2/test_api_6.png)
+![Step1](../../images/ex2.2/test_api_1.png)
+![Step2](../../images/ex2.2/test_api_2.png)
+![Step3](../../images/ex2.2/test_api_3.png)
+![Step4](../../images/ex2.2/test_api_4.png)
+![Step5](../../images/ex2.2/test_api_5.png)
+![Step6](../../images/ex2.2/test_api_6.png)
