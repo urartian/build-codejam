@@ -17,6 +17,7 @@ When making the app, you will:
 Perform all the steps in 👉 tutorial: 
 
 - [Create SAP Build App to Trigger Workflow](https://developers.sap.com/tutorials/build-apps-workflow-trigger.html)
+- [Create Destination to Trigger Process from any Service](https://developers.sap.com/tutorials/spa-create-service-instance-destination.html)
 
 
 ## Summary
